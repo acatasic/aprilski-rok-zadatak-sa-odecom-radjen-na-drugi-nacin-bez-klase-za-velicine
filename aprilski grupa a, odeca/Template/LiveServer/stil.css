@@ -1,0 +1,60 @@
+.divGlavni{
+
+    border-color: black;
+    border-width: 1px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.divCelogPrikazaProdavnice{
+    display: flex;
+    border-width: 1px;
+    flex-direction: row;
+    width: 100%;
+}
+
+
+.divUnos{
+    border-color: black;
+    border-width: 1px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+}
+
+.divPrikaz{
+    border-color: black;
+    border-width: 1px;
+    background-color: aquamarine;
+    display: flex;
+    flex-direction: row;
+    width: 70%;
+}
+.divPrikaz2{
+    margin: 10px;
+    min-width: 100%;
+    border-color: black;
+    background-color: rgb(97, 175, 235);
+    display: flex;
+    flex-wrap: wrap;
+    
+}
+
+.divZaPrikazProizvoda{
+    min-width: 45%;
+    margin: 10px;
+    border-color: black;
+    background-color: rgb(97, 175, 235);
+    display: flex;
+    flex-direction: column;
+}
+
+.inputCenaDo{
+
+}
+.inputCenaDo{
+
+}
