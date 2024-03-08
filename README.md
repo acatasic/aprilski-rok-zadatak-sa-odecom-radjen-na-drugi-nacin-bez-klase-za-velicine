@@ -1,3 +1,5 @@
+Projekat u kom se koristi JavaScript, kao i .NET-a i platforma Azure
+
 # aprilski-rok 2022.
 
 -zadatak-sa-odecom-radjen-na-drugi-nacin-bez-klase-za-velicine
